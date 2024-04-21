@@ -1,0 +1,35 @@
+body {
+    background-color: red;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    margin-top: 40px;
+}
+
+.subtitle {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.button-circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: none;
+    background-color: white;
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.stopwatch {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
